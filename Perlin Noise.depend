@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490296217 source:e:\codeblocks projects\perlin noise\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
